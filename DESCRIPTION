@@ -1,7 +1,7 @@
 Package: RDocumentation
 Type: Package
 Title: Integrate R with 'RDocumentation.org'
-Version: 0.6
+Version: 0.7.0
 Author: Jonathan Cornelissen <jonathan@datacamp.com>
 Maintainer: Ludovic Vannoorenberghe <ludovic@datacamp.com>
 URL: https://www.rdocumentation.org, https://www.datacamp.com
@@ -13,6 +13,6 @@ Imports: httr (>= 1.2.1), proto (>= 0.3-10), rjson (>= 0.2.15), utils,
 RoxygenNote: 5.0.1
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2016-09-28 16:38:13 UTC; ludov
+Packaged: 2016-10-03 10:35:22 UTC; ludov
 Repository: CRAN
-Date/Publication: 2016-09-28 19:34:56
+Date/Publication: 2016-10-03 23:12:21
