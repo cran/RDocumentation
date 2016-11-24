@@ -1,7 +1,7 @@
 Package: RDocumentation
 Type: Package
 Title: Integrate R with 'RDocumentation.org'
-Version: 0.7.1
+Version: 0.8.0
 Authors@R: c(
     person("Ludovic", "Vannoorenberghe", email = "ludovic@datacamp.com", role = "cre"),
     person("Jonathan", "Cornelissen", email = "jonathan@datacamp.com", role = "aut"),
@@ -17,11 +17,11 @@ Imports: httr (>= 1.2.1), proto (>= 0.3-10), rjson (>= 0.2.15), utils,
 RoxygenNote: 5.0.1
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2016-10-26 10:22:01 UTC; ludov
+Packaged: 2016-11-18 14:51:00 UTC; ludov
 Author: Ludovic Vannoorenberghe [cre],
   Jonathan Cornelissen [aut],
   Hannes Buseyne [ctb],
   Filip Schouwenaars [ctb]
 Maintainer: Ludovic Vannoorenberghe <ludovic@datacamp.com>
 Repository: CRAN
-Date/Publication: 2016-10-26 14:27:56
+Date/Publication: 2016-11-24 11:57:56
