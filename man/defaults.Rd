@@ -2,11 +2,11 @@
 % Please edit documentation in R/settings.R
 \name{defaults}
 \alias{defaults}
-\alias{disable_autoload}
-\alias{disable_rdocs}
 \alias{enable_autoload}
-\alias{enable_rdocs}
 \alias{makeDefault}
+\alias{disable_autoload}
+\alias{enable_rdocs}
+\alias{disable_rdocs}
 \title{Settings}
 \usage{
 enable_autoload()
@@ -28,11 +28,10 @@ When you load in the RDocumentation package, you'll be prompted to autoload
 the package whenever you start R. When RDocumentation is loaded, it will automatically
 override the default help functionality with documentation from RDocumentation.org.
 
-The autoloading is done by modyfing the .RProfile file that is in your working directory.
+The autoloading is done by modifying the .RProfile file that is in your working directory.
 
 With \code{enable_autoload} and \code{disable_autoload} you can update the
 .RProfile file to enable or disable the automatic loading of RDocumentation
 when you start R. With \code{enable_rdocs} and \code{disable_rdocs} you can enable or 
 disable the overriding of the default help viewer.
 }
-
