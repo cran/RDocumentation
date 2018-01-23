@@ -1,3 +1,7 @@
+# RDocumentation 0.8.2
+
+* Fix violation of cran policy, cutted down functionalities
+
 # RDocumentation 0.8.1
 
 * Fix violation of cran policy
